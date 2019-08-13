@@ -1,3 +1,4 @@
+--左結合
 select
   member.name as "社員名"
   , department.name as "部署"
