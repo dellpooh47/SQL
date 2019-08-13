@@ -1,4 +1,4 @@
---左結合
+--外部結合
 select
   member.name as "社員名"
   , member_contact as "電話番号"
